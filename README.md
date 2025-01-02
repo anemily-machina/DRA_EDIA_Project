@@ -6,12 +6,12 @@ TODO when more content is added
 
 ## Vision and Mission
 
-- **Vision:** Making AI's more understandable, accessible, and equitable.
+- **Vision:** Making AIs more understandable, accessible, and equitable.
 - **Mission:** Making accessible educational material to enhance the research options for equity deserving groups.
 
 ## About this Repository
 
-This repository holds the material for Anemily Machina's proposade project for the Digital Research Alliance of Canada's (DRA's) EDIA Champion Pilot Project [(link)](https://alliancecan.ca/en/funding-opportunities/dri-edia-champions-pilot-program)
+This repository holds the material for Anemily Machina's proposed project for the Digital Research Alliance of Canada's (DRA's) EDIA Champion Pilot Project [(link)](https://alliancecan.ca/en/funding-opportunities/dri-edia-champions-pilot-program)
 
 This includes:
 - a survey to gague knowledge and interest in the DRA, research data management, high performance computing, and general AI
@@ -20,79 +20,13 @@ This includes:
 - English and French language educational materials
 - Videos related to the eduational materials
 
-### Using this Repository
-
-![screenshot with arrows and instructions describing how to use this repository template to create a project repo. The description provided in the title.](./assets/use-this-repo.png)
-
-**Image Description:**
-
-Your streamlined project setup is just three steps away:
-* Step 1: Click 'Use this template' on the top right-hand side. Follow it up by clicking 'Create a new repository.'
-* Step 2: In the subsequent window, set the 'owner' (yourself or a GitHub organisation) and give your project repository a descriptive name.
-* Step 3: Finalise by clicking 'Create repository' at the bottom right-hand side.
-
-After creating your own copy of this repository, you can edit or delete existing files and folders, or add new ones as per your needs.
-
-<!--If reusing this repository, delete this section -->
-## About README
-
-On an online repository, such as GitHub, the project overview page is named ‘README’ which is equivalent to the main page of a website.
-README page should describe the project -- what is the purpose of the project, who is involved, how to collaborate and where to find key resources.
-
-To learn more about how to create a README.md file, please read the [Landing Page - README File](https://the-turing-way.netlify.app/project-design/project-repo/project-repo-readme.html) chapter in The Turing Way Guide for Project Design.
-
-When reusing, you can delete most content written here, and use this MarkDown template to add content about your project:
-
-```
-# Project Quick Start
-
-*Add Badges/GitHub shields, which are clickable buttons that provide concise actions related to the project.*
-
-*A sentence summarising what to expect from this repository*  
-
-## Vision and Mission
-
-- **Vision:** One sentence capturing the project's overarching vision.
-- **Mission:** One sentence defining the project's goals and target audience.
-
-## About
-
-Motivation and background in a nutshell.
-
 ## Roadmap & Milestones
 
-- **Goals:** Clear overview of overarching and short-term goals.
-- **Outcomes:** Description of expected results and deliverables.
-
-## The Team
-
-- **Members:** List of team members and their roles in the project.
-- **Roles & Responsibilities:** [Team Directory](link-to-directory) outlines roles, responsibilities and their ways of working.
-
-## Contributing
-
-- **Guidelines:** [Contribution Guidelines](link-to-guidelines) for contributors.
-- **Code of Conduct:** [Code of Conduct](link-to-coc) ensures a respectful project environment.
-- **Resource Plans:** Details on available resources and recommended practices for the project team.
-
-## Licensing
-
-Clearly define the license under which the repository's work is shared.
-(Example: This project is licensed under the MIT License - see the LICENSE.md file for details.)
-
-## Citing & Acknowledgement
-
-- **Citation Instructions:** How to cite the project.
-- **Acknowledgment:** Recognising contributions by different members.
-
-## Contact
-
-- **Reach Out:** Contact details for questions, feedback, or ideas.
-
-```
+- **Goals:** To gague knowledge of DRA services, what people want to learn, and create educational materials based on the survey.
+- **Outcomes:** Release a survey to gague knowledge and interest in DRA services. Create approximately 6 hours of educational materials. Create two videos/hold two workshops on approximetly 2 hours of said eduational materials.
 
 
-<!--If reusing this repository, delete this section -->
+
 
 ## Repo Structure
 
