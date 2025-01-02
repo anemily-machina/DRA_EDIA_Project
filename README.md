@@ -1,13 +1,12 @@
-# Template for setting up reproducible projects
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-
-*This is a template for setting up a research or data science project online, such as on GitHub.*
+# Community Driven Accessible Mini-Courses and Workshops to Further the Uptake of DRA DRI Resources
 
 ## About this Repository
 
-This repository holds the material for Anemily Machina's Digital Research Alliance of Canada's EDIA Champion Pilot project [(link)](https://alliancecan.ca/en/funding-opportunities/dri-edia-champions-pilot-program)
+This repository holds the material for Anemily Machina's Digital Research Alliance of Canada's (DRA's) EDIA Champion Pilot project [(link)](https://alliancecan.ca/en/funding-opportunities/dri-edia-champions-pilot-program)
+
+This includes:
+-a survey to gague knowledge and interest in the DRA, research data management, high performance computing, and general AI
+-
 
 ### Using this Repository
 
