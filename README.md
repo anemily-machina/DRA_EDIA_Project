@@ -7,7 +7,7 @@
 
 ## About this Repository
 
-This repository holds the material for Anemily Machina's Digital Research Alliance of Canada's EDIA Champion Pilot project [(link)]([url](https://alliancecan.ca/en/funding-opportunities/dri-edia-champions-pilot-program))
+This repository holds the material for Anemily Machina's Digital Research Alliance of Canada's EDIA Champion Pilot project [(link)](https://alliancecan.ca/en/funding-opportunities/dri-edia-champions-pilot-program)
 
 ### Using this Repository
 
