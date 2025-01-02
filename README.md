@@ -1,12 +1,24 @@
 # Community Driven Accessible Mini-Courses and Workshops to Further the Uptake of DRA DRI Resources
 
+## Project Quick Start
+
+TODO when more content is added
+
+## Vision and Mission
+
+- **Vision:** Making AI's more understandable, accessible, and equitable.
+- **Mission:** Making accessible educational material to enhance the research options for equity deserving groups.
+
 ## About this Repository
 
-This repository holds the material for Anemily Machina's Digital Research Alliance of Canada's (DRA's) EDIA Champion Pilot project [(link)](https://alliancecan.ca/en/funding-opportunities/dri-edia-champions-pilot-program)
+This repository holds the material for Anemily Machina's proposade project for the Digital Research Alliance of Canada's (DRA's) EDIA Champion Pilot Project [(link)](https://alliancecan.ca/en/funding-opportunities/dri-edia-champions-pilot-program)
 
 This includes:
--a survey to gague knowledge and interest in the DRA, research data management, high performance computing, and general AI
--
+- a survey to gague knowledge and interest in the DRA, research data management, high performance computing, and general AI
+- the ethics documention for the survey
+- high level summaries of the results of the survey
+- English and French language educational materials
+- Videos related to the eduational materials
 
 ### Using this Repository
 
