@@ -7,11 +7,7 @@
 
 ## About this Repository
 
-This repository operationalises The Turing Way recommendations for structuring project repositories to support reproducibility in data science projects.
-This repository includes files and directories recommended for enabling reproducibility and collaboration in a project, as well as sharing of research objects.
-
-This repository follows the recommendations and guidance provided in *[The Turing Way](https://the-turing-way.netlify.app/welcome)* handbook to data science.
-When reusing this repository, please update the information on your README page with information about your project.
+This repository holds the material for Anemily Machina's Digital Research Alliance of Canada's EDIA Champion Pilot project [(link)]([url](https://alliancecan.ca/en/funding-opportunities/dri-edia-champions-pilot-program))
 
 ### Using this Repository
 
