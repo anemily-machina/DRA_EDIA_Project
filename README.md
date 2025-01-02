@@ -25,11 +25,34 @@ This includes:
 - **Goals:** To gague knowledge of DRA services, what people want to learn, and create educational materials based on the survey.
 - **Outcomes:** Release a survey to gague knowledge and interest in DRA services. Create approximately 6 hours of educational materials. Create two videos/hold two workshops on approximetly 2 hours of said eduational materials.
 
+## The Team
 
+- **Members:** Anemily Machina, Dr. Robert Mercer (supervisor)
+
+## Contributing
+
+- **Guidelines:** [Contribution Guidelines](link-to-guidelines) for contributors.
+- **Code of Conduct:** [Code of Conduct](link-to-coc) ensures a respectful project environment.
+- **Resource Plans:** Details on available resources and recommended practices for the project team.
+
+## Licensing
+
+Clearly define the license under which the repository's work is shared.
+(Example: This project is licensed under the MIT License - see the LICENSE.md file for details.)
+
+## Citing & Acknowledgement
+
+- **Citation Instructions:** How to cite the project.
+- **Acknowledgment:** Recognising contributions by different members.
+
+## Contact
+
+- **Reach Out:** Contact details for questions, feedback, or ideas.
 
 
 ## Repo Structure
 
+Default repo structure from template. Work inprogress and subject to change.
 Inspired by [Cookie Cutter Data Science](https://github.com/drivendata/cookiecutter-data-science).
 
 ```
