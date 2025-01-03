@@ -31,7 +31,7 @@ This includes:
 
 ## Contributing
 
-- **Guidelines:** [Contribution Guidelines](link-to-guidelines) for contributors.
+- **Guidelines:** [Contribution Guidelines](CONTRIBUTING.md) for contributors.
 - **Code of Conduct:** [Code of Conduct](link-to-coc) ensures a respectful project environment.
 - **Resource Plans:** Details on available resources and recommended practices for the project team.
 
