@@ -20,7 +20,7 @@ To accept your pull request, we need you to submit a CLA. You only need to submi
 
 ## Issues
 
-Alternatively, you may open a GitHub issue to flag grammatical changes or suggest changes to the avialable eduational materials.
+Alternatively, you may open a GitHub issue to flag grammatical changes or suggest changes to the available eduational materials.
 
 ## License
 By contributing to examples, you agree that your contributions will be licensed under the LICENSE file in the root directory of this source tree.
