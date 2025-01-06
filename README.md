@@ -54,6 +54,10 @@ You can find the liscence Deed at the following [link](https://creativecommons.o
 }
 ```
 
+```
+Machina, A., & Mercer, R. (2025). Machina-Mercer EDIA Project 2024-2025 (Version 1.0.0) [Computer software]. https://github.com/anemily-machina/DRA_EDIA_Project
+```
+
 - **Acknowledgment:** Recognising contributions by different members.
 
 ## Contact
