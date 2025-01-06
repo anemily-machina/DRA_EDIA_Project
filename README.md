@@ -58,12 +58,13 @@ You can find the liscence Deed at the following [link](https://creativecommons.o
 Machina, A., & Mercer, R. (2025). Machina-Mercer EDIA Project 2024-2025 (Version 1.0.0) [Computer software]. https://github.com/anemily-machina/DRA_EDIA_Project
 ```
 
-- **Acknowledgment:** Recognising contributions by different members.
+- **Acknowledgment:**
+
+This repository uses the template created and maintained by *The Turing Way* team members and shared under CC-BY 4.0 for reuse: https://github.com/alan-turing-institute/reproducible-project-template.
 
 ## Contact
 
-- **Reach Out:** Contact details for questions, feedback, or ideas.
-
+- **Reach Out:** Anemily Machina: anemily.machina@uwo.ca
 
 ## Repo Structure
 
