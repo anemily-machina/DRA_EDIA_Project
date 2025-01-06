@@ -44,15 +44,16 @@ You can find the liscence Deed at the following [link](https://creativecommons.o
 
 - **Citation Instructions:** If you use resources in this repository please cite it as:
 ```
-  @software{Machina_Machina-Mercer_EDIA_Project_2025,
-    author = {Machina, Anemily and Mercer, Robert},
-    month = jan,
-    title = {{Machina-Mercer EDIA Project 2024-2025}},
-    url = {https://github.com/anemily-machina/DRA_EDIA_Project},
-    version = {1.0.0},
-    year = {2025}
-  }
+@software{Machina_Machina-Mercer_EDIA_Project_2025,
+  author = {Machina, Anemily and Mercer, Robert},
+  month = jan,
+  title = {{Machina-Mercer EDIA Project 2024-2025}},
+  url = {https://github.com/anemily-machina/DRA_EDIA_Project},
+  version = {1.0.0},
+  year = {2025}
+}
 ```
+
 - **Acknowledgment:** Recognising contributions by different members.
 
 ## Contact
