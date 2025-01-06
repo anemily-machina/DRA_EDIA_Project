@@ -33,7 +33,6 @@ This includes:
 
 - **Guidelines:** [Contribution Guidelines](CONTRIBUTING.md) for contributors.
 - **Code of Conduct:** [Code of Conduct](CONTRIBUTING.md) ensures a respectful project environment.
-- **Resource Plans:** Details on available resources and recommended practices for the project team.
 
 ## Licensing
 
