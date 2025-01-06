@@ -36,8 +36,9 @@ This includes:
 
 ## Licensing
 
-Clearly define the license under which the repository's work is shared.
-(Example: This project is licensed under the MIT License - see the LICENSE.md file for details.)
+This project is licensed under the CC BY-SA 4.0 License - see the [LICENSE.md](LICENSE.md) file for details.
+
+You can find the liscence Deed at the following [link](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
 
 ## Citing & Acknowledgement
 
