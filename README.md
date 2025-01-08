@@ -38,7 +38,7 @@ This includes:
 
 This project is licensed under the CC BY-SA 4.0 License - see the [LICENSE.md](LICENSE.md) file for details.
 
-You can find the liscence Deed at the following [link](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
+You can find the licence Deed at the following [link](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
 
 ## Citing & Acknowledgement
 
