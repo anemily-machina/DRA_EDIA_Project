@@ -5,7 +5,7 @@ The name should indicate the version and date of the slides
 ## Citations
 
 ```
-@misc{choose-a-key,
+@misc{amachina-accelerated-advent,
   author = {Machina, Anemily},
   month = jan,
   title = {Machina_Slides_Accelerated Ad(E)vent Respondent},
