@@ -6,11 +6,10 @@ The name should indicate the version and date of the slides
 
 ```
 @misc{amachina-accelerated-advent,
-  author = {Machina, Anemily},
-  month = jan,
-  title = {Machina_Slides_Accelerated Ad(E)vent Respondent},
-  url = {https://github.com/anemily-machina/DRA_EDIA_Project/blob/main/slides/old/Machina_Slides_Accelerated%20Ad(E)vent%20Respondent%202024-05-24%20v1.0d%20Ad(E)vent%20Respondent.pdf},
-  version = {1.0.0},
-  year = {2025}
+  title        = "Artificial "Directed Musement" and Its Limitations",
+  author       = "{Anemily Machina}",
+  howpublished = "\url{https://github.com/anemily-machina/DRA_EDIA_Project/blob/main/slides/old/Machina_Slides_Accelerated%20Ad(E)vent%20Respondent%202024-05-24%20v1.0d%20Ad(E)vent%20Respondent.pdft}",
+  year         = 2024,
+  note         = "Last edited March 2024"
 }
 ```
