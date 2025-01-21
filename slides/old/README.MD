@@ -4,6 +4,7 @@ The name should indicate the version and date of the slides
 
 ## Citations
 
+```
 @misc{choose-a-key,
   author = {Machina, Anemily},
   month = jan,
@@ -12,3 +13,4 @@ The name should indicate the version and date of the slides
   version = {1.0.0},
   year = {2025}
 }
+```
