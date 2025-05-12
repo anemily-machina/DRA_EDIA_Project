@@ -1,0 +1,54 @@
+Have you heard of the Digital Research Alliance of Canada?
+No - 42
+Yes - 12
+N=54
+
+
+Have you used any of the services provided by the Digiral Research Alliance of Canada?
+No - 5
+Yes - 6
+N=11
+
+
+Is your supervisor set up to use the services provided by the Digitral Reaseach Alliance of Canada?
+No - 2
+Yes - 6 
+Decline to answer - 3
+N=11
+
+
+List any services provided by The Digital Research Alliance of Canada that you have used. You may leave this question blank.
+Computational Resources - 1
+N=1
+
+
+Have you heard of Research Data Managemnet (RDM)?
+No - 29
+Yes - 20
+N=49
+
+
+Have you heard of any of the following services: Lunaris, Borealis, or the Federated Research Data Repository?
+
+Yes - 7
+No - 43
+N=50
+
+
+Would you be interested in learning more about Data Management Plans, Research Data Management, and Research Data Management Tools and Services?
+No - 9
+Yes - 35
+Decline to answer - 6
+N=50
+
+
+Have you heard of the CCDB? Formerly Compute Canada?
+No - 39
+Yes - 11
+N=50
+
+
+Would you be interested in learning more about the CCDB or other Advanced Computing Resources?
+No - 15
+Yes - 29
+Decline to answer - 6
