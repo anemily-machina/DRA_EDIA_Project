@@ -29,9 +29,8 @@ N=49
 
 
 Have you heard of any of the following services: Lunaris, Borealis, or the Federated Research Data Repository?
-
-Yes - 7
 No - 43
+Yes - 7
 N=50
 
 
